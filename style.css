@@ -1,12 +1,15 @@
-.bambang {
-    color: blue;
+h1 {
+    font-family: 'Times New Roman', Times, serif;
+    font-variant: small-caps;
+    font-weight: bold;
+    margin-left: 44%;
+
 }
-
-.gambar {
-
-    width: 300;
-    height: 300;
-    background-image: url(https://source.unsplash.com/);
+p#nama {
+    margin-left: 45%;
+    letter-spacing: 150%;
     
-
+}
+p#nim{
+    margin-left: 47%;
 }
