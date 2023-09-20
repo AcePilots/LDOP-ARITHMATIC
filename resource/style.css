@@ -6,16 +6,54 @@ h1 {
 
 }
 .resize {
-    width:100px;
-    height: 150px;
-    margin-left: 46%;
+    width:300px;
+    height: 300px;
+    margin-left: 5%;
+    float: left ;
+    margin-top: 1%;
 }
 
 p#nama {
-    margin-left: 45%;
-    letter-spacing: 150%;
+    margin-top: 3%;
+    margin-left: 27%;
+    margin-right : 40%;
+    text-align: justify;
+}
+h2{
     
+    margin-left: 27%;
+   
 }
-p#nim{
-    margin-left: 47%;
+
+table {
+    margin-left: 27%;
 }
+td {
+    line-height: 25px;
+}
+h3{
+    font-size: 135%;
+    margin-left: 27%;
+}
+ol{
+    margin-left: 25.5%;
+}
+
+h4{
+    font-size: 135%;
+    margin-left: 27%;
+}
+.button {
+    background-color: rgb(255, 255, 255);
+    color: rgb(0, 0, 0);
+    border: 2px solid #4C8BF5; 
+    transition-duration: 0.4s;
+    padding: 2px 25px;
+    text-decoration: none;
+
+  }
+  
+.button:hover {
+    background-color: #4C8BF5; 
+    color: rgb(255, 255, 255);
+  }
